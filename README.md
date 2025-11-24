@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Dash</a>! 👋
+# Hi there, I'm <a href="https://github.com/dashaneka">Dash</a>! 👋
 
 ### 🤖 AI Enthusiast | 🛠️ Tool Builder | 🌐 Web Developer
 
