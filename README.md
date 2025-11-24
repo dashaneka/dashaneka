@@ -44,7 +44,7 @@ My goal is to simplify complex tasks and create useful utilities.
 
 <div align="center"> 
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dashaneka&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=dashaneka&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
 ---
