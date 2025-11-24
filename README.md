@@ -38,8 +38,8 @@ My goal is to simplify complex tasks and create useful utilities.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dashaneka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashaneka&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center"> 
