@@ -50,5 +50,5 @@ My goal is to simplify complex tasks and create useful utilities.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/YOUR_USERNAME">Dash</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/dashaneka">Dash</a></sub>
 </div>
