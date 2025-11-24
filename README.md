@@ -42,11 +42,6 @@ My goal is to simplify complex tasks and create useful utilities.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashaneka&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-<div align="center"> 
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=dashaneka&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
-
 ---
 
 <div align="center">
